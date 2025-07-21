@@ -22,7 +22,7 @@
   <input type="hidden" name="_subject" value="Novo Pedido Extra - Almoxarifado">
   <input type="hidden" name="_captcha" value="false">
   <input type="hidden" name="_template" value="table">
-  <input type="hidden" name="_next" value="https://seudominio.com/obrigado.html">
+  <input type="hidden" name="_next" value="https://leitaoochefe.github.io/almoxarifado-formul-rio/?">
 
   <label for="solicitante">Solicitante:</label>
   <input type="text" id="solicitante" name="Solicitante" required>
